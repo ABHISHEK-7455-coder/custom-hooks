@@ -7,10 +7,11 @@ import UseInsertionEffectExample from './useInsertionEffect';
 const App = () => {
   return (
     <div>
-      {/* <UsersList />
+       <UseInsertionEffectExample />
+      <UsersList />
       <PostsList />
-      <CommentsList /> */}
-      <UseInsertionEffectExample />
+      <CommentsList />
+     
     </div>
   );
 };
